@@ -3,14 +3,15 @@ const connection=require("./config/db");
 const dotenv=require("dotenv");
 const userRouter=require("./routes/user.routes");
 const productRouter=require("./routes/product.routes");
-
+const cartRouter=require("./routes/cart.routes")
 
 dotenv.config();
 const app=express()
 const PORT=process.env.PORT || 3001 ;
 app.use(express.json());
 app.use("/user",userRouter);
-app.use("/product",productRouter)
+app.use("/product",productRouter);
+app.use("/cart",cartRouter)
 
 app.get("/",(req,res)=>{
     res.status(201).send("hey buddy, site server is running fine")
