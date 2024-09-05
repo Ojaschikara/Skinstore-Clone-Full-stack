@@ -14,9 +14,7 @@ https://skinstore-clone-full-stack.vercel.app/
 5. **Responsive Design**: The website is fully responsive and can be viewed on any device.
 6. **Dynamic Cart**: A dynamic cart feature allows users to add and manage products easily.
 
-## Live Demo
 
-Check out the live demo of the project [here](https://skinstore-clone-fawn.vercel.app/).
 
 ## Screenshots
 
