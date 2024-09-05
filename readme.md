@@ -29,7 +29,8 @@ https://skinstore-clone-full-stack.vercel.app/
 * React.js
 * ChakraUi
 * Redux
-
+* Backend(nodeJs)
+  
 ## Getting Started
 
 Follow these instructions to set up the project on your local machine.
