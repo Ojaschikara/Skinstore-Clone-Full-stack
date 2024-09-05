@@ -2,6 +2,9 @@
 
 This project is a clone of the [SkinStore](https://www.skinstore.com/) website, created using Create React App (CRA). It includes various features to enhance the user experience and functionality.
 
+## Deployed link
+https://skinstore-clone-full-stack.vercel.app/
+
 ## Features
 
 1. **Login & Signup**: Users can create accounts and log in to access personalized features.
