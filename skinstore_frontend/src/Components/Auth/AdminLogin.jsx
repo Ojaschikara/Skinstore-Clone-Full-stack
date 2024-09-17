@@ -15,7 +15,7 @@ const AdminLogin = () => {
   const navigate = useNavigate()
   const handleSubmit = (e) => {
     e.preventDefault();
-    if (data.email !== "priyank@admin.gmail.com" && data.password !== "admin123") {
+    if (data.email !== "ojas@admin.gmail.com" && data.password !== "admin123") {
       toast({
         position: 'top-left',
 
